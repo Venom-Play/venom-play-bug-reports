@@ -34,45 +34,15 @@ body:
     validations:
       required: false
   - type: input
-    id: desktop-os
+    id: os
     attributes:
-      label: Desktop OS
+      label: OS
     validations:
       required: false
   - type: input
-    id: desktop-browser
+    id: browser
     attributes:
-      label: Desktop Browser
-    validations:
-      required: false
-  - type: input
-    id: desktop-version
-    attributes:
-      label: Desktop Version
-    validations:
-      required: false
-  - type: input
-    id: smartphone-device
-    attributes:
-      label: Smartphone Device
-    validations:
-      required: false
-  - type: input
-    id: smartphone-os
-    attributes:
-      label: Smartphone OS
-    validations:
-      required: false
-  - type: input
-    id: smartphone-browser
-    attributes:
-      label: Smartphone Browser
-    validations:
-      required: false
-  - type: input
-    id: smartphone-version
-    attributes:
-      label: Smartphone Version
+      label: Browser
     validations:
       required: false
   - type: textarea
