@@ -38,19 +38,19 @@ body:
     attributes:
       label: Desktop OS
     validations:
-      required: true
+      required: false
   - type: input
     id: desktop-browser
     attributes:
       label: Desktop Browser
     validations:
-      required: true
+      required: false
   - type: input
     id: desktop-version
     attributes:
       label: Desktop Version
     validations:
-      required: true
+      required: false
   - type: input
     id: smartphone-device
     attributes:
