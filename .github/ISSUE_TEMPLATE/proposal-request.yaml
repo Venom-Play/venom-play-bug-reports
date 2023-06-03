@@ -38,13 +38,13 @@ body:
     attributes:
       label: OS
     validations:
-      required: false
+      required: true
   - type: input
     id: browser
     attributes:
       label: Browser
     validations:
-      required: false
+      required: true
   - type: textarea
     id: additional-context
     attributes:
